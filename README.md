@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Bansal</h1>
+<h1 align="center">Hi 👋, I'm Nivita Soni</h1>
 
 <h3 align="center">
 Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthusiast
@@ -18,7 +18,7 @@ Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthu
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, C++, Python, ML**  
 
-- 📫 How to reach me: **yashbansal4065@gmail.com**  
+- 📫 How to reach me: **nivitasoni1669@gmail.com**  
 
 - 📄 Want to know about my expertise:  
   👉 **[Click here to view my resume](https://drive.google.com/file/d/1RxMpfRPT6wQSAtT2zzzwTuuV0Rb_gzj6/view?usp=sharing)**  
@@ -45,11 +45,11 @@ Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthu
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:yashbansal4065@gmail.com">
+<a href="mailto:nivitasoni1669@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/yashbansal4065/" target="_blank">
+<a href="https://leetcode.com/u/Nivita6091/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
 </a>
 
