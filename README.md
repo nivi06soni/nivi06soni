@@ -21,7 +21,7 @@ Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthu
 - 📫 How to reach me: **nivitasoni1669@gmail.com**  
 
 - 📄 Want to know about my expertise:  
-  👉 **[Click here to view my resume](https://drive.google.com/file/d/1RxMpfRPT6wQSAtT2zzzwTuuV0Rb_gzj6/view?usp=sharing)**  
+  👉 **[Click here to view my resume](https://drive.google.com/file/d/1qWpn2KWPSX5hQeXgzLb48riLTxbOPhUg/view?usp=sharing)**  
 
 - ⚡ Fun fact: *I love turning ideas into real-world tech solutions*  
 
