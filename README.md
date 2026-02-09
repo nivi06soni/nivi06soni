@@ -33,11 +33,11 @@ Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthu
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/yashbansal78/" target="_blank">
+<a href="https://www.linkedin.com/in/nivitasoni2311" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/ya78bansal" target="_blank">
+<a href="https://github.com/nivi06soni" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </a>&nbsp;&nbsp;&nbsp;
 
@@ -72,18 +72,21 @@ Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthu
 
 ## 🚀 Featured Projects  
 
-### 🔹 LRU Task Manager  
-**Tech Stack:** JavaScript  
-- Implemented LRU cache logic for efficient task management  
-- Focused on performance and clean code design  
+### 🔹 HomeGenie (One-Stop Solution for all Home Needs) 
+**Tech Stack:**  HTML, CSS, JavaScript, Node.js, MySQL
+- Developed a full-stack web application to connect users with verified home service providers such as electricians,
+plumbers, cleaners.
+- Integrated real-time service tracking, booking and scheduling, secure payment gateway.
 
 <br/>
 
-### 🔹 HiddenHeu – Discover Hidden Treasures Near You  
-**Tech Stack:** MERN Stack  
-- Location-based discovery platform  
-- City-wise exploration with modern UI  
-
+### 🔹 Mental Health Companion
+**Tech Stack:** HTML, CSS, JavaScript
+- Built a responsive mental health companion web app
+- Implemented mood-based quotes and song suggestions
+- Developed personal journaling feature using Local Storage
+- Focused on user experience, emotional well-being, and clean UI design
+  
 <br/>
 
 ### 🔹 Smart Traffic Violation Reporter  
